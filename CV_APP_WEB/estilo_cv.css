@@ -1,0 +1,52 @@
+html{
+    background-color: rgb(165, 219, 177);
+  }
+  body{
+    width: 900px;
+    height: 1000px;
+    background-color: rgba(93, 194, 90, 0.74);
+    margin: auto;
+    box-shadow: inset;
+    border-radius: 12cqb;
+  }
+  .izquierda{
+    background-color: rgb(74, 134, 74, 0.87);
+  }
+  .nombre{
+    position: right;
+    color: rgb(8, 8, 8);
+  }
+  .derecha{
+    background-color: rgba(74, 134, 74, 0.87);
+    border-radius: 15cqb;
+
+  }
+  .Descripcion{
+    background-color: rgb(77, 151, 83);
+  }
+  .final{
+    background-color: rgb(91, 167, 91);
+    border-radius: 12cqb;
+  }
+ .dg{
+    color: rgb(15, 15, 15);
+ }
+ .tf{
+    color:rgb(48, 54, 45);
+    
+ }
+ .esc{
+    color:rgb(12, 12, 12);
+ }
+ .dgesc{
+    color: gray;
+    text-size-adjust: auto;
+ }
+ .redes{
+    background-color: rgba(104, 141, 93, 0.801);
+    border-radius: 13cqb;
+ }
+ .redesletra{
+    border-color: black;
+    color:gainsboro;
+ }
